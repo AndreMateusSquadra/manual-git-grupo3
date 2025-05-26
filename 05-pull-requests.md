@@ -208,4 +208,6 @@ Pull Requests (PRs) são propostas de mudanças que você quer mesclar em um rep
 
 ## Conclusão
 
-GitHub e Pull Requests são ferramentas essenciais para colaboração em projetos de software. Dominar esses conceitos é fundamental para trabalhar em equipe e contribuir para projetos open source. 
+GitHub e Pull Requests são ferramentas essenciais para colaboração em projetos de software. Dominar esses conceitos é fundamental para trabalhar em equipe e contribuir para projetos open source.
+
+**Lembre-se:** A prática leva à perfeição no uso do Git e GitHub! 
