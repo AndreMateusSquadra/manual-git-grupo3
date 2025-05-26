@@ -80,6 +80,8 @@ git --version
 
 Você deve ver algo como: `git version 2.x.x`
 
+**Nota:** Certifique-se de reiniciar o terminal após a instalação para que o comando `git` seja reconhecido.
+
 ## Primeiros Passos
 
 1. Crie uma pasta para seus projetos:
