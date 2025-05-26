@@ -94,6 +94,10 @@ git checkout main
 git merge feature-login
 ```
 
+Para visualizar o fluxo de branches e merges, veja o diagrama abaixo:
+
+![Diagrama de Branches e Merge](imagens/diagrama-branches.png)
+
 ### Resolvendo Conflitos
 
 Quando o Git não consegue resolver automaticamente as diferenças, você precisa resolver manualmente:
