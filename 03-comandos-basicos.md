@@ -177,4 +177,6 @@ git rm --cached arquivo.txt
 
 ## Próximos Passos
 
-No próximo módulo, aprenderemos sobre branches e merge, que permitem trabalhar em diferentes versões do seu código simultaneamente. 
+No próximo módulo, aprenderemos sobre branches e merge, que permitem trabalhar em diferentes versões do seu código simultaneamente.
+
+**Nota:** Pratique estes comandos em seu terminal para melhor aprendizado! 
